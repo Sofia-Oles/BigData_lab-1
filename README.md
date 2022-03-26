@@ -1,8 +1,3 @@
----
-TASK DESCRIPTION
----
-
-
 **LAB 1 - Oleskevych Sofia, CS-314**
 
 
@@ -25,6 +20,9 @@ _for comfortable view run it:)_
 
 
 
+---
+TASK DESCRIPTION
+---
 
 
 
