@@ -1,4 +1,12 @@
-# Pyspark-practice
+---
+TASK DESCRIPTION
+---
+
+
+**LAB 1 - Oleskevych Sofia, CS-314**
+
+
+---
 
 1.Install venv
 ```
@@ -17,15 +25,6 @@ _for comfortable view run it:)_
 
 
 
----
-TASK DESCRIPTION
----
-
-
-**LAB 1 - Oleskevych Sofia, CS-314**
-
-
----
 
 
 
